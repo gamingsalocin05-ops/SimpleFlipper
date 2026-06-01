@@ -1,0 +1,5 @@
+accessWidener v2 named
+accessible field net/minecraft/client/gui/screens/inventory/AbstractSignEditScreen line I
+accessible method net/minecraft/client/gui/screens/inventory/AbstractSignEditScreen setMessage (Ljava/lang/String;)V
+accessible field net/minecraft/client/gui/screens/inventory/AbstractContainerScreen leftPos I
+accessible field net/minecraft/client/gui/screens/inventory/AbstractContainerScreen topPos I

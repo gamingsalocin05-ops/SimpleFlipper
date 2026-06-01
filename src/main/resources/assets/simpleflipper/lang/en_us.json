@@ -1,0 +1,6 @@
+{
+  "category.simpleflipper.main": "Simple Flipper",
+  "key.simpleflipper.start_pause": "Start / Pause",
+  "key.simpleflipper.kill": "Panic Stop (kill)",
+  "key.simpleflipper.finalize": "Finalize (claim + cancel, then stop)"
+}

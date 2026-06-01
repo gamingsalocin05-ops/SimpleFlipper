@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "simpleflipper",
+	"version": "${version}",
+	"name": "Simple Flipper",
+	"description": "A deliberately minimal Bazaar flipper: hands-free, single-item (Enchanted Hard Stone), no GUI. Places its own buy order, drains to the Builder, and replaces on outbid. Pause / kill / finalize keybinds.",
+	"authors": ["salocin"],
+	"license": "MIT",
+	"environment": "client",
+	"accessWidener": "simpleflipper.accesswidener",
+	"entrypoints": {
+		"client": ["dev.salocin.simpleflipper.SimpleFlipper"]
+	},
+	"depends": {
+		"fabricloader": ">=${loader_version}",
+		"minecraft": "${minecraft_version}",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
